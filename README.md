@@ -32,4 +32,4 @@ Also, further analysis should be done to capture the positive or negative impact
 
 Students at ACE 592 SAE: Data Science for Applied Economics the University of Illinois Urbana-Champaign
 
-It was created to fulfill the requirements for a final group project for a graduate-level course entitled Data Science for Applied Economics taught by Dr. Jared Hutchins at the University of Illinois Urbana-Champaign for the Spring 2022 semester.
+It was created to fulfill the requirements for the final group project for a graduate-level course entitled Data Science for Applied Economics taught by Dr. Jared Hutchins at the University of Illinois Urbana-Champaign for the Spring 2022 semester.
