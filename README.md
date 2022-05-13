@@ -23,7 +23,7 @@ Also, further analysis should be done to capture the positive or negative impact
 # Repository Structure
  - **Write Up**: includes the Python code files called "Reddit.ipynb", "Xide chen.ipynb".
  - **Datasets**: are Documents needed to run code and includes the datasets the above Python code references.
- - **Write Up**: includes the final report for this project and its findings in a document called "Write_Up.docx" on slide links file. 
+ - **Write Up**: includes the final report for this project and its findings in a document called "Write_Up.docx" on write_up links file. 
 
 # Authors
  - Àlex Alonso: aa66@illinois.edu
