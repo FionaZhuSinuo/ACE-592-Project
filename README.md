@@ -21,7 +21,7 @@ One of the main limitations of this analysis is the accuracy of the sentiment sc
 Also, further analysis should be done to capture the positive or negative impact of emojis in the sentiment analysis.
 
 # Repository Structure
- - **Write Up**: includes the Python code files called "Reddit.ipynb", "Xide chen.ipynb".
+ - **Code**: includes the Python code files called "Reddit.ipynb", "Xide chen.ipynb".
  - **Datasets**: are Documents needed to run code and includes the datasets the above Python code references.
  - **Write Up**: includes the final report for this project and its findings in a document called "Write_Up.docx" on write_up links file. 
 
